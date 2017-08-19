@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/res/merged/debug/layout/activity_camera.xml",
+        "source": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/res/layout/activity_camera.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/res/merged/debug/layout/bitmap_fragment.xml",
+        "source": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/res/layout/bitmap_fragment.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/res/merged/debug/layout/camera_fragment.xml",
+        "source": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/res/layout/camera_fragment.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/res/merged/debug/layout/camera_connection_fragment_tracking.xml",
+        "source": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/res/layout/camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/res/merged/debug/layout/camera_connection_fragment_stylize.xml",
+        "source": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/res/layout/camera_connection_fragment_stylize.xml"
+    }
+]

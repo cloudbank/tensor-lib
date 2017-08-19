@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/sabine/Downloads/android-sdk-macosx-3/cmake/3.6.4111459/bin/cmake --build /Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"tensorflow_demo-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "tensorflow_demo",
+			"buildCommand" : "/Users/sabine/Downloads/android-sdk-macosx-3/cmake/3.6.4111459/bin/cmake --build /Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86 --target tensorflow_demo",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=19 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/cpp/imageutils_jni.cc",
+					"workingDirectory" : "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=19 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/cpp/rgb2yuv.cc",
+					"workingDirectory" : "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86"
+				},
+				
+				{
+					"flags" : "  --target=i686-none-linux-android --gcc-toolchain=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=19 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/cpp/yuv2rgb.cc",
+					"workingDirectory" : "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/cmake/release/obj/x86/libtensorflow_demo.so",
+			"toolchain" : "8967618212917344986"
+		}
+	},
+	"toolchains" : 
+	{
+		"8967618212917344986" : 
+		{
+			"cCompilerExecutable" : "/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

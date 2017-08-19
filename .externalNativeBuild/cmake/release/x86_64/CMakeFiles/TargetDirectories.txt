@@ -1,0 +1,3 @@
+/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/edit_cache.dir
+/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/.externalNativeBuild/cmake/release/x86_64/CMakeFiles/tensorflow_demo.dir

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_action_info.png",
+        "source": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/res/drawable-xxhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/build/intermediates/res/merged/release/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/sabine/github/myfriendflickr2016/flickr/tensor-lib/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]
