@@ -1,4 +1,7 @@
-<img src="https://i.imgur.com/TWWnjEU.png" height="300"/> 
+## Tensor-Lib  v 1.0   The Java Branch
 
-## Tensor-Lib  v 1.0   
+
+<img src="https://i.imgur.com/TWWnjEU.png" /> 
+
+
 
