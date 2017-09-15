@@ -1,0 +1,15 @@
+Executable : /Users/sabine/Downloads/android-sdk-macosx-3/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib
+-B/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/.externalNativeBuild/cmake/debug/armeabi-v7a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_MAKE_PROGRAM=/Users/sabine/Downloads/android-sdk-macosx-3/cmake/3.6.4111459/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-19
+-DCMAKE_CXX_FLAGS=
+jvmArgs : 
+

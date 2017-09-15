@@ -1,0 +1,53 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/sabine/Downloads/android-sdk-macosx-3/cmake/3.6.4111459/bin/cmake --build /Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+	],
+	"cppFileExtensions" : [ "cc" ],
+	"libraries" : 
+	{
+		"tensorflow_demo-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "tensorflow_demo",
+			"buildCommand" : "/Users/sabine/Downloads/android-sdk-macosx-3/cmake/3.6.4111459/bin/cmake --build /Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/.externalNativeBuild/cmake/release/arm64-v8a --target tensorflow_demo",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/src/main/cpp/imageutils_jni.cc",
+					"workingDirectory" : "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/src/main/cpp/rgb2yuv.cc",
+					"workingDirectory" : "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android --gcc-toolchain=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot  -Dtensorflow_demo_EXPORTS -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -isystem /Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/sysroot/usr/include/aarch64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/src/main/cpp/yuv2rgb.cc",
+					"workingDirectory" : "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/cmake/release/obj/arm64-v8a/libtensorflow_demo.so",
+			"toolchain" : "8967618212917344986"
+		}
+	},
+	"toolchains" : 
+	{
+		"8967618212917344986" : 
+		{
+			"cCompilerExecutable" : "/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/sabine/Downloads/android-sdk-macosx-3/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

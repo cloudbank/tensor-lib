@@ -1,0 +1,448 @@
+[
+    {
+        "outputFile": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 69,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 69,
+                        "endOffset": 360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 42,
+                    "endOffset": 403
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 42,
+                        "endOffset": 403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 408,
+                    "endColumn": 43,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 408,
+                        "endColumn": 43,
+                        "endOffset": 447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 44,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 452,
+                        "endColumn": 44,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 42,
+                    "endOffset": 535
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 42,
+                        "endOffset": 535
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 540,
+                    "endColumn": 41,
+                    "endOffset": 577
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 540,
+                        "endColumn": 41,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 582,
+                    "endColumn": 67,
+                    "endOffset": 645
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 67,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 650,
+                    "endColumn": 68,
+                    "endOffset": 714
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 68,
+                        "endOffset": 714
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 719,
+                    "endColumn": 47,
+                    "endOffset": 762
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 47,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 767,
+                    "endColumn": 82,
+                    "endOffset": 845
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 767,
+                        "endColumn": 82,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 850,
+                    "endColumn": 49,
+                    "endOffset": 895
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endColumn": 49,
+                        "endOffset": 895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 900,
+                    "endColumn": 49,
+                    "endOffset": 945
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 900,
+                        "endColumn": 49,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 950,
+                    "endColumn": 63,
+                    "endOffset": 1009
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 63,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1014,
+                    "endColumn": 83,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1014,
+                        "endColumn": 83,
+                        "endOffset": 1093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1098,
+                    "endColumn": 53,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1098,
+                        "endColumn": 53,
+                        "endOffset": 1147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 50,
+                    "endOffset": 1198
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1152,
+                        "endColumn": 50,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1203,
+                    "endColumn": 94,
+                    "endOffset": 1293
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1203,
+                        "endColumn": 94,
+                        "endOffset": 1293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1298,
+                    "endColumn": 59,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1298,
+                        "endColumn": 59,
+                        "endOffset": 1353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1358,
+                    "endColumn": 52,
+                    "endOffset": 1406
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1358,
+                        "endColumn": 52,
+                        "endOffset": 1406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1411,
+                    "endColumn": 26,
+                    "endOffset": 1433
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1411,
+                        "endColumn": 26,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1438,
+                    "endLine": 27,
+                    "endColumn": 10,
+                    "endOffset": 1619
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endLine": 27,
+                        "endColumn": 10,
+                        "endOffset": 1619
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1624,
+                    "endLine": 33,
+                    "endColumn": 10,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "/Users/sabine/github/myfriendflickr2016/phlaiku/phlaiku/tensorLib/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1624,
+                        "endLine": 33,
+                        "endColumn": 10,
+                        "endOffset": 1879
+                    }
+                }
+            }
+        ]
+    }
+]
